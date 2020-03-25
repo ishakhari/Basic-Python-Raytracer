@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-from Tkinter import Tk, Frame, Canvas, PhotoImage, NW
+from tkinter import Tk, Frame, Canvas, PhotoImage, NW
 
 from scene.light import Light
 from scene.material import Material, CheckedMaterial, Color
